@@ -1,0 +1,14 @@
+p{
+    font-size: 30px;
+    text-align: center;
+}
+
+button{
+    margin: auto;
+}
+
+#counter-div{
+    transform: translate(0px,300px);
+    display:none;
+}
+
